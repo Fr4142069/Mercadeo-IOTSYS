@@ -1,0 +1,120 @@
+{
+  "brand": "IOTSYS",
+  "version": "1.0",
+  "palette": [
+    {
+      "name": "Azul Profundo",
+      "role": "Color Primario / Corporativo",
+      "hex": "#01325D",
+      "rgb": [
+        1,
+        50,
+        93
+      ],
+      "cmyk": [
+        99,
+        46,
+        0,
+        64
+      ],
+      "pantone": "Pantone 2955 C",
+      "hsl": "208\u00b0, 98%, 18%",
+      "var_name": "--iotsys-azul-profundo"
+    },
+    {
+      "name": "Cyan Tecnologico",
+      "role": "Color Secundario / Acento Dinamico",
+      "hex": "#04C1CF",
+      "rgb": [
+        4,
+        193,
+        207
+      ],
+      "cmyk": [
+        98,
+        7,
+        0,
+        19
+      ],
+      "pantone": "Pantone 3115 C",
+      "hsl": "184\u00b0, 96%, 41%",
+      "var_name": "--iotsys-cyan-tecnologico"
+    },
+    {
+      "name": "Celeste Medio",
+      "role": "Tono de Soporte / UI & Graficos",
+      "hex": "#66B6C0",
+      "rgb": [
+        102,
+        182,
+        192
+      ],
+      "cmyk": [
+        47,
+        5,
+        0,
+        25
+      ],
+      "pantone": "Pantone 549 C",
+      "hsl": "187\u00b0, 42%, 58%",
+      "var_name": "--iotsys-celeste-medio"
+    },
+    {
+      "name": "Acento Claro",
+      "role": "Tono de Fondo / Resaltado Suave",
+      "hex": "#C1F2F6",
+      "rgb": [
+        193,
+        242,
+        246
+      ],
+      "cmyk": [
+        22,
+        2,
+        0,
+        4
+      ],
+      "pantone": "Pantone 635 C",
+      "hsl": "184\u00b0, 74%, 86%",
+      "var_name": "--iotsys-acento-claro"
+    },
+    {
+      "name": "Blanco Puro",
+      "role": "Superficie y Contraste Negativo",
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pantone": "Opaque White",
+      "hsl": "0\u00b0, 0%, 100%",
+      "var_name": "--iotsys-blanco"
+    },
+    {
+      "name": "Gris Grafito",
+      "role": "Texto Secundario y Bordes Industriales",
+      "hex": "#334155",
+      "rgb": [
+        51,
+        65,
+        85
+      ],
+      "cmyk": [
+        40,
+        24,
+        0,
+        67
+      ],
+      "pantone": "Pantone 432 C",
+      "hsl": "215\u00b0, 25%, 27%",
+      "var_name": "--iotsys-gris-grafito"
+    }
+  ]
+}

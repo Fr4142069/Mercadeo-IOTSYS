@@ -1,0 +1,43 @@
+/* ==========================================================================
+   IOTSYS Brand Assets v1.0 - Official Design System Color Tokens
+   Architect: Fredy Custodio | Status: Approved Master
+   ========================================================================== */
+
+:root {
+  /* Azul Profundo - Color Primario / Corporativo */
+  --iotsys-azul-profundo: #01325D;
+  --iotsys-azul-profundo-rgb: 1, 50, 93;
+  --iotsys-azul-profundo-cmyk: cmyk(99%, 46%, 0%, 64%);
+  --iotsys-azul-profundo-pantone: "Pantone 2955 C";
+
+  /* Cyan Tecnologico - Color Secundario / Acento Dinamico */
+  --iotsys-cyan-tecnologico: #04C1CF;
+  --iotsys-cyan-tecnologico-rgb: 4, 193, 207;
+  --iotsys-cyan-tecnologico-cmyk: cmyk(98%, 7%, 0%, 19%);
+  --iotsys-cyan-tecnologico-pantone: "Pantone 3115 C";
+
+  /* Celeste Medio - Tono de Soporte / UI & Graficos */
+  --iotsys-celeste-medio: #66B6C0;
+  --iotsys-celeste-medio-rgb: 102, 182, 192;
+  --iotsys-celeste-medio-cmyk: cmyk(47%, 5%, 0%, 25%);
+  --iotsys-celeste-medio-pantone: "Pantone 549 C";
+
+  /* Acento Claro - Tono de Fondo / Resaltado Suave */
+  --iotsys-acento-claro: #C1F2F6;
+  --iotsys-acento-claro-rgb: 193, 242, 246;
+  --iotsys-acento-claro-cmyk: cmyk(22%, 2%, 0%, 4%);
+  --iotsys-acento-claro-pantone: "Pantone 635 C";
+
+  /* Blanco Puro - Superficie y Contraste Negativo */
+  --iotsys-blanco: #FFFFFF;
+  --iotsys-blanco-rgb: 255, 255, 255;
+  --iotsys-blanco-cmyk: cmyk(0%, 0%, 0%, 0%);
+  --iotsys-blanco-pantone: "Opaque White";
+
+  /* Gris Grafito - Texto Secundario y Bordes Industriales */
+  --iotsys-gris-grafito: #334155;
+  --iotsys-gris-grafito-rgb: 51, 65, 85;
+  --iotsys-gris-grafito-cmyk: cmyk(40%, 24%, 0%, 67%);
+  --iotsys-gris-grafito-pantone: "Pantone 432 C";
+
+}
